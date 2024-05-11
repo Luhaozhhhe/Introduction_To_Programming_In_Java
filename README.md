@@ -1,4 +1,4 @@
-# MIT6092-Introduction-to-Programming-in-Java
+# MIT6092-Introduction_to_Programming_in_Java
 本人第一门JAVA入门课程
 
 课程网站：https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/pages/syllabus/
