@@ -2,19 +2,19 @@
 ## 本人第一门JAVA入门课程
 
 ## 学习流程
-week1 20240511
+**week1** 20240511
 
-week2 20240512
+**week2** 20240512
 
-week3
+**week3**
 
-week4
+**week4**
 
-week5
+**week5**
 
-week6
+**week6**
 
-week7
+**week7**
 
 
 
